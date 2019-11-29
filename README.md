@@ -17,8 +17,8 @@ Splitting with confidence in decision trees with application to stream mining
 Rocco De Rosa and Nicolò Cesa-Bianchi  
 https://ieeexplore.ieee.org/document/7280392
 
-Confidence decision trees via online and active learning for streaming data
-Rocco De Rosa and Nicolò Cesa-Bianchi
+Confidence decision trees via online and active learning for streaming data  
+Rocco De Rosa and Nicolò Cesa-Bianchi  
 https://www.jair.org/index.php/jair/article/view/11102
 
 
