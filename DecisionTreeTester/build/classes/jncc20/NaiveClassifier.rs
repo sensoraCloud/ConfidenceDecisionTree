@@ -1,0 +1,2 @@
+jncc20.NaiveClassifier
+jncc20.NaiveBayes

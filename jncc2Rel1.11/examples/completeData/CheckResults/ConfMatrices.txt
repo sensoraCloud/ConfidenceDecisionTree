@@ -1,0 +1,65 @@
+
+
+
+
+Dataset: contact-lenses-weka.filters.supervised.instance.StratifiedRemoveFolds-S0-N2-F1
+Validation method: t&t
+Classifier: NBC
+soft	hard	none		 <--classified as
+0	0	3	soft
+0	1	1	hard
+0	0	7	none
+
+Dataset: contact-lenses-weka.filters.supervised.instance.StratifiedRemoveFolds-S0-N2-F1
+Validation method: t&t
+Classifier: NCC2 (matrix refers to determinate instances)
+soft	hard	none		 <--classified as
+0	0	0	soft
+0	0	0	hard
+0	0	3	none
+
+
+
+
+Dataset: iris
+Validation method: t&t
+Classifier: NBC
+Iris-setosa	Iris-versicolor	Iris-virginica		 <--classified as
+25	0	0	Iris-setosa
+0	23	2	Iris-versicolor
+0	1	24	Iris-virginica
+
+Dataset: iris
+Validation method: t&t
+Classifier: NCC2 (matrix refers to determinate instances)
+Iris-setosa	Iris-versicolor	Iris-virginica		 <--classified as
+25	0	0	Iris-setosa
+0	22	2	Iris-versicolor
+0	1	24	Iris-virginica
+
+
+
+
+Dataset: Glass
+Validation method: t&t
+Classifier: NBC
+'build wind float'	'build wind non-float'	'vehic wind float'	'vehic wind non-float'	containers	tableware	headlamps		 <--classified as
+28	4	1	0	0	2	0	'build wind float'
+7	19	0	0	5	7	0	'build wind non-float'
+5	3	0	0	0	0	0	'vehic wind float'
+0	0	0	0	0	0	0	'vehic wind non-float'
+0	0	0	0	5	0	1	containers
+0	0	0	0	0	4	1	tableware
+1	0	0	0	0	1	13	headlamps
+
+Dataset: Glass
+Validation method: t&t
+Classifier: NCC2 (matrix refers to determinate instances)
+'build wind float'	'build wind non-float'	'vehic wind float'	'vehic wind non-float'	containers	tableware	headlamps		 <--classified as
+20	2	0	0	0	0	0	'build wind float'
+6	11	0	0	1	1	0	'build wind non-float'
+3	0	0	0	0	0	0	'vehic wind float'
+0	0	0	0	0	0	0	'vehic wind non-float'
+0	0	0	0	3	0	0	containers
+0	0	0	0	0	0	0	tableware
+1	0	0	0	0	0	7	headlamps

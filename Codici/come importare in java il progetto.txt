@@ -1,0 +1,11 @@
+creare importando progetto moaRevised
+
+in moaRevised aggiungere in proprietà la libreria weka.jar (Hoeff_Tree_Project\Codici)
+ed in sorgenti //Hoeff_Tree_Project\Codici\SorgentiMoa
+
+creare ed importare il progetto DecisionTreeTester ed in proprietà aggiungere core.jar(Hoeff_Tree_Project\Codici)
+
+aprire proprietà progetto e aggiungere progetto moaRevised nelle librerie
+
+Aprire il file gs.java in MoaClassifierRocco.settings (DecisionTreeTester.settings) e cambiare path della directory
+di output

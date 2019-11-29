@@ -1,0 +1,2 @@
+Dataset,Instances,Features,Classes,ValMethod,NbcAcc,(StdDev),NccDeterm,(StdDev),NccSingleAcc,(StdDev),NccSetAcc,(StdDev),NccIndetOutSize,(StdDev),Nbc(Ncc-P),(StdDev),Nbc(Ncc-I),(StdDev)
+labor,29,16,2,t&t,89.29%,n.a.,78.57%,n.a.,90.91%,n.a.,100.00%,n.a.,2.0,n.a.,90.91%,n.a.,83.33%,n.a.,

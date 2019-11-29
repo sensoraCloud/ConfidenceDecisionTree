@@ -1,0 +1,17 @@
+
+
+
+
+Dataset: hepatitis
+Validation method: t&t
+Classifier: NBC
+DIE	LIVE		 <--classified as
+12	4	DIE
+8	54	LIVE
+
+Dataset: hepatitis
+Validation method: t&t
+Classifier: NCC2 (matrix refers to determinate instances)
+DIE	LIVE		 <--classified as
+12	3	DIE
+3	51	LIVE

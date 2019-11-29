@@ -1,0 +1,2 @@
+Dataset,Instances,Features,Classes,ValMethod,NbcAcc,(StdDev),NccDeterm,(StdDev),NccSingleAcc,(StdDev),NccSetAcc,(StdDev),NccIndetOutSize,(StdDev),Nbc(Ncc-P),(StdDev),Nbc(Ncc-I),(StdDev)
+hepatitis,77,19,2,t&t,84.62%,n.a.,88.46%,n.a.,91.30%,n.a.,100.00%,n.a.,2.0,n.a.,91.30%,n.a.,33.33%,n.a.,

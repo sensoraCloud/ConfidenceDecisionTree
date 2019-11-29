@@ -1,0 +1,4 @@
+Dataset,Instances,Features,Classes,ValMethod,NbcAcc,(StdDev),NccDeterm,(StdDev),NccSingleAcc,(StdDev),NccSetAcc,(StdDev),NccIndetOutSize,(StdDev),Nbc(Ncc-P),(StdDev),Nbc(Ncc-I),(StdDev)
+contact-lenses-weka.filters.supervised.instance.StratifiedRemoveFolds-S0-N2-F1,12,4,3,t&t,66.67%,n.a.,25.00%,n.a.,100.00%,n.a.,100.00%,n.a.,2.3,n.a.,100.00%,n.a.,55.56%,n.a.,
+iris,75,4,3,t&t,96.00%,n.a.,98.67%,n.a.,95.95%,n.a.,100.00%,n.a.,2.0,n.a.,95.95%,n.a.,100.00%,n.a.,
+Glass,107,9,7,t&t,64.49%,n.a.,51.40%,n.a.,74.55%,n.a.,90.38%,n.a.,4.0,n.a.,74.55%,n.a.,53.85%,n.a.,

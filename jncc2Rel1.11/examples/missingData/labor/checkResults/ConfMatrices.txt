@@ -1,0 +1,17 @@
+
+
+
+
+Dataset: labor
+Validation method: t&t
+Classifier: NBC
+bad	good		 <--classified as
+9	1	bad
+2	16	good
+
+Dataset: labor
+Validation method: t&t
+Classifier: NCC2 (matrix refers to determinate instances)
+bad	good		 <--classified as
+7	0	bad
+2	13	good
