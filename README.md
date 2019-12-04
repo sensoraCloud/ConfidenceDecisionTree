@@ -13,12 +13,12 @@ Confidence Decision Tree Java implementation on top of MOA framework: https://mo
 
 ### Reference Pubblications
 
-**Splitting with confidence in decision trees with application to stream mining** 
+**Splitting with confidence in decision trees with application to stream mining**  
 Rocco De Rosa and Nicolò Cesa-Bianchi  
 2015 International Joint Conference on Neural Networks (IJCNN). IEEE, 2015  
 https://ieeexplore.ieee.org/document/7280392
 
-**Confidence decision trees via online and active learning for streaming data** 
+**Confidence decision trees via online and active learning for streaming data**  
 Rocco De Rosa and Nicolò Cesa-Bianchi  
 Journal of Artificial Intelligence Research, 60, 1031-1055  
 https://www.jair.org/index.php/jair/article/view/11102
